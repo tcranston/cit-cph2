@@ -1,0 +1,97 @@
+
+<div class="container">
+
+<header class="site-header">
+<div class="container mbl-company-heading">
+  <span class="pull-left mbl-company-name">
+    <span class="xl-letter">M</span>onroe 
+    <span class="xl-letter">B</span>rothers 
+    <span class="xl-letter">L</span>td
+  </span>
+  <span class="mbl-company-logo pull-right">
+    <img class="mbl-logo" src="{{ "/images/mbl-logo.jpg" | prepend: site.baseurl }}" alt="Monroe Brothers Ltd Logo" title="Monroe Brothers Ltd" height="50px">
+  </span>
+  </div>
+<nav class="navbar navbar-default">
+  
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+    </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse centered-pills" id="bs-example-navbar-collapse-1">
+        <ul  class="nav nav-pills">
+          {% for item in site.main_menu %}
+            {% assign base_url = '/'  %}
+            {% assign page_url = base_url | (append: item | downcase | replace: ' ','_') %}
+            {% assign url_parts = page_url | split: '/' %}
+            {% assign url_parts_size = url_parts | size %} 
+
+            {% if item == 'Home' %}
+              <li 
+                {% if page.url == '/' %}
+                     class="active" 
+                {% endif %}
+                ><a href='/'>{{ item }}</a></li>
+            {% else  %} 
+
+                {% assign level_count = 0  %}
+                {% for node in site.pages %}
+                    {% if node.url contains page_url %}
+                        {% assign level_count = level_count | plus: 1 %}
+                    {% endif %}
+                {% endfor %}
+
+                {% if level_count > 1 %}
+                    <li class="dropdown 
+                    {% if page.url contains (page_url | append: '/') %}
+                     active
+                    {% endif %}
+                    "><a href='/{{ item | downcase  | replace: ' ', '_' }}' class="dropdown-toggle"   data-target="#" role="button" aria-haspopup="true" aria-expanded="false">
+                        {{ item }}
+                        <span class="caret"></span>
+                    </a>
+                    <ul  class="dropdown-menu">
+                    {% for node in site.pages %}
+                        {% if node.url contains page_url %}
+                            {% if node.title != item %}
+                                    {% assign node_url_parts = node.url | split: '/' %}
+                                    {% assign node_url_parts_size = node_url_parts | size %}
+                                    {% assign filename = node_url_parts | last %}
+                                    {% if (url_parts_size | plus:'1') == node_url_parts_size  %}
+                                    <li><a href='{{node.url}}'>{{node.title}}</a></li>
+                                    {% endif %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                     </ul>
+                {% else  %}
+                     <li 
+                    {% if page.url contains (page_url | append: '/') %}
+                     class="active"
+                    {% endif %}
+                        {% if page.url == page_url %}
+                         class="active"
+                        {% endif %}
+                     ><a href='/{{ item | downcase | replace: ' ', '_' }}'>{{ item }}</a></li>
+                {% endif %}
+            {% endif %}
+          {% endfor %}
+          </ul>
+
+        
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+</nav>
+</header>
+
+
+</div><!-- /.container-fluid -->
+

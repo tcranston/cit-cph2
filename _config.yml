@@ -1,0 +1,34 @@
+# Site settings
+title: Clean Power Hydrogen (CPH2)
+email: your-email@domain.com
+description: Clean Power Hydrogen (CPH2) is a new technology company delivering hydrogen-based solutions for the transportation and power sectors
+keywords: new technology, engineering, hydrogen-based solutions, power sectors,
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+main_menu:
+  - Home
+  - CPH2 Team
+  - Electricity Storage Technology
+  - Low Emission Technology
+  - Contact
+
+
+website_images:
+  - id: "left"
+    image: "mbl_hp_img1.jpg"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at tellus varius sem porta sagittis tincidunt vel lectus. Pellentesque in feugiat sem, eget accumsan urna. Nulla vulputate non lectus ac porta."
+  - id: "middle"
+    image: "mbl_hp_img2.jpg"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at tellus varius sem porta sagittis tincidunt vel lectus. Pellentesque in feugiat sem, eget accumsan urna. Nulla vulputate non lectus ac porta."
+  - id: "right"
+    image: "mbl_hp_img3.jpg"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at tellus varius sem porta sagittis tincidunt vel lectus. Pellentesque in feugiat sem, eget accumsan urna. Nulla vulputate non lectus ac porta."
+# website_image: 
+# website_image_text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at tellus varius sem porta sagittis tincidunt vel lectus. Pellentesque in feugiat sem, eget accumsan urna. Nulla vulputate non lectus ac porta."
+
+bcryo_link: "http://bcryo.org.uk"
+bcryo_image: "bcryo_logo.jpg"
+
+# Build settings
+markdown: kramdown
