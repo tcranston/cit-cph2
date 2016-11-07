@@ -19,13 +19,12 @@ h1, h2, h3, h4 {
 
 .mbl-company-name {
 	text-transform: uppercase;
-	font-family: Copperplate, 'Copperplate Gothic Light', fantasy; 
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif; 
 	font-size: 30px;
 	color: blue;
     font-weight: 100;
 	font-style: normal;
 	font-variant: normal;
-    letter-spacing: -2px;
 }
 
 .mbl-company-name .xl-letter {
