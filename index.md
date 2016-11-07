@@ -1,5 +1,5 @@
 ---
-layout: index_page
+layout: standard_page
 title: Welcome to Clean Power Hydrogen (CPH2)
 permalink: /
 ---

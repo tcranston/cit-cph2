@@ -7,6 +7,7 @@ permalink: /electricity_storage_technology/
 At CPH2, we have developed the capability to engineer hydrogen-based energy storage systems as a clean alternative to battery-power storage systems which are being increasingly used to stabilise and strengthen electricity transmission and distribution networks. 
 The CPH2 solution is a set of scaleable processes, systems and technologies which have been developed for efficient electrolysis, drying, purification  and separation of hydrogen (from oxygen) and storage. 
 
+![The CPH2 Process](/images/process.jpg)
 
 In GB, the solution can be applied to overcome local network constraints, and to provide a revenue stream through PPAs, frequency response, STOR, Triad, and other emerging market opportunities
 The equipment design is highly flexible design and can be tailored to chosen site and specific requirements for operation in the chosen markets. It can provide a clean and economic addition to the power sector’s portfolio of balancing solutions

@@ -8,6 +8,9 @@ CPH2’s flagship product is an electrolyser unit designed for diesel-fuelled ve
 
 The gas generation system
 -------------------------
+
+![The gas generation system](/images/gas gen.jpg)
+
 The CPH2 gas generation system is a fully integrated self-monitoring unit, designed to provide a variable volume of hydrogen and oxygen gases in a 2:1 ratio from water.
 The system draws electricity of low current at 12V or 24V DC, dependent upon the vehicle’s electrical system. The electrical power is applied to our ‘stack’ which separates the water into its constituent gases by a highly efficient electrolysis process.
 Only sufficient gas to address the vehicle’s needs is produced in ‘real- time’ as the vehicle engine runs.  There is no gas stored on the vehicle, making it very compact.
