@@ -1,25 +1,25 @@
 ---
-layout: homepage
+layout: index_page
 title: Contact
 permalink: /contact/
 ---
 
-| Monroe Brothers Ltd,
-| P.O.Box 12,
-| Moreton-in-Marsh. 
-| GL56 9YX.
+| Clean Power Hydrogen Group Limited,
+| 46 Brooklands Drive,
+| Goostrey,
+| Cheshire,
+| CW4 8JD
 | United Kingdom
 
 |
-| Tel:	+44 (0)1386 701777
-| Fax:	+44 (0)1386 701888
-| Email: cmonroe@monroebrothers.co.uk
-
-|
-| Company No:	3293397
-| Vat No:	693 6021 27
+| Company No:	10286500
+| Vat No:	246 3819 88
 | Directors
-| Charles Monroe CEng, FIMechE, BA (hons)
-| Alexia Monroe BA (hons)
+| Clive Matthew Brook
+| Rodney Thornton Brook
+| Charles Malcolm Monroe
+| Joseph Scott
+| Nigel David 
+| Lister Williamson
 
 

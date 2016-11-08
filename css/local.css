@@ -9,7 +9,7 @@ p {
 }
 
 h1, h2, h3, h4 {
-	color: red;
+	color: #60aceb;
 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
@@ -21,7 +21,7 @@ h1, h2, h3, h4 {
 	text-transform: uppercase;
 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif; 
 	font-size: 30px;
-	color: blue;
+	color: #263b7a;
     font-weight: 100;
 	font-style: normal;
 	font-variant: normal;
@@ -39,13 +39,13 @@ h1, h2, h3, h4 {
 	padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 50px;
-    color: blue;
+    color: #263b7a;
    /* color: #767676; */
    /* color: #337ab7; */
     text-align: center;
    /* border-top: 1px solid #e5e5e5; */
    /* border-top: 1px solid #337ab7; */
-    border-top: 1px solid blue;
+    border-top: 1px solid #d1d1d1;
 }
 
 .mbl-rhs-block {
@@ -55,7 +55,7 @@ h1, h2, h3, h4 {
 
 .navbar-default {
     background-color: #fff;
-    border-color: blue;
+    border-color: #d1d1d1;
     border-radius: 0px;
     border-top-style: solid !important;
     border-left-style: none !important;
@@ -66,17 +66,17 @@ h1, h2, h3, h4 {
 }
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
-    color: blue;
+    color: #263b7a;
     background-color: #d5d5d5;
 }
 
 .nav-pills a, .nav-pills li ul a{
-	color: blue;
+	color: #263b7a;
 	width: 100%
 }
 
 .nav-pills a:hover, .nav-pills li ul a:hover, .nav-pills>li.active>a:hover{
-	color: red !important;
+	color: #60aceb !important;
 }
 
 .navbar-toggle {
@@ -120,7 +120,7 @@ a:hover.mbl_hp_img  {
 }
 
 .mbl_list {
-	list-style-image: url('../images/tinyflag.gif');
+	list-style-image: url('../images/cph2-bullet.jpg');
 }
 
 @media (min-width: 979px) {
