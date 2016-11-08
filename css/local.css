@@ -9,7 +9,7 @@ p {
 }
 
 h1, h2, h3, h4 {
-	color: #60aceb;
+	color: #263b7a;
 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
@@ -21,7 +21,7 @@ h1, h2, h3, h4 {
 	text-transform: uppercase;
 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif; 
 	font-size: 30px;
-	color: #263b7a;
+	color: #60aceb;
     font-weight: 100;
 	font-style: normal;
 	font-variant: normal;
@@ -39,7 +39,7 @@ h1, h2, h3, h4 {
 	padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 50px;
-    color: #263b7a;
+    color: #60aceb;
    /* color: #767676; */
    /* color: #337ab7; */
     text-align: center;
@@ -66,17 +66,17 @@ h1, h2, h3, h4 {
 }
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
-    color: #263b7a;
+    color: #60aceb;
     background-color: #d5d5d5;
 }
 
 .nav-pills a, .nav-pills li ul a{
-	color: #263b7a;
+	color: #60aceb;
 	width: 100%
 }
 
 .nav-pills a:hover, .nav-pills li ul a:hover, .nav-pills>li.active>a:hover{
-	color: #60aceb !important;
+	color: #263b7a !important;
 }
 
 .navbar-toggle {
