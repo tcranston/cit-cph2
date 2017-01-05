@@ -21,5 +21,4 @@ permalink: /contact/
 | Joseph Scott
 | Nigel David 
 | Lister Williamson
-test
 
