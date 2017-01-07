@@ -12,7 +12,7 @@ permalink: /contact/
 | United Kingdom
 
 |
-| email us using info(at)cph2.com
+| email using info(at)cph2.com
 
 |
 | Company No:	10286500
