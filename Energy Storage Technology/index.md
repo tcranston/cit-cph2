@@ -1,6 +1,6 @@
 ---
 layout: index_page
-title: Electricity Storage Technology (EST)
+title: Energy Storage Technology (EST)
 permalink: /energy_storage_technology/
 ---
 
