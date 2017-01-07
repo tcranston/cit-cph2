@@ -4,7 +4,7 @@ title: Low Emissions Technology
 permalink: /low_emissions_technology/
 ---
 
-CPH2’s flagship product is an electrolyser unit designed for diesel-fuelled vehicles and static diesel generators. 
+CPH2’s flagship product is an electrolyser unit designed for fossil-fuelled internal combustion engines either for vehicles and static generators. 
 
 The gas generation system
 -------------------------
@@ -19,7 +19,7 @@ The system, which uses very little water, produces enough gas for most applicati
 
 Theory
 ------
-The CPH2 system’s effectiveness is related to the speed of the combustion reaction of hydrogen, which is around seven times that of diesel.  A tiny explosion of the hydrogen and oxygen occurs early in the diesel combustion reaction, further breaking up the droplets of diesel fuel injected into the engine.  This offers a much smaller droplet (and significantly higher surface area) to the oxygen for a more complete combustion.
+The CPH2 system’s effectiveness is related to the speed of the combustion reaction of hydrogen, which is around seven times that of diesel.  A tiny explosion of the hydrogen and oxygen occurs early in the diesel combustion reaction, further breaking up the droplets of diesel fuel injected into the engine.  This offers a much smaller droplet (and significantly higher surface area) to the oxygen for a more complete combustion.  The same benefits are derived when using the technology on petrol engines.
 This results in more power output from the engine, and contributes to lower emissions of particulates and gaseous hydrocarbons, as well as lowering the CO2 emissions and saving fuel.
 
 Misting system 
