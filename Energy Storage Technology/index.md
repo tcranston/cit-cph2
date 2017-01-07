@@ -1,7 +1,7 @@
 ---
 layout: index_page
 title: Electricity Storage Technology (EST)
-permalink: /electricity_storage_technology/
+permalink: /energy_storage_technology/
 ---
 
 At CPH2, we have developed the capability to engineer hydrogen-based energy storage systems as a clean alternative to battery-power storage systems which are being increasingly used to stabilise and strengthen electricity transmission and distribution networks. 
