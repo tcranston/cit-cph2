@@ -11,15 +11,17 @@ permalink: /contact/
 | CW4 8JD
 | United Kingdom
 
-|
-| email using info(at)cph2.com
+Email
+------------------------------
+| info(at)cph2.com
 
-|
+Company Details
+------------------------------
 | Company No:	10286500
 | Vat No:	246 3819 88
 
-|
-| Directors
+Directors
+------------------------------
 |	Clive Matthew Brook
 |	Rodney Thornton Brook
 |	Charles Malcolm Monroe
