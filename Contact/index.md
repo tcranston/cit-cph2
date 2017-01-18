@@ -19,15 +19,20 @@ Email
 
 Company Details
 ------------------------------
-  Company No:	10286500
-  Vat No:	246 3819 88
+Company No:	10286500
+  
+Vat No:	246 3819 88
 
 
 Directors
 ------------------------------
-  Clive Matthew Brook
-  Rodney Thornton Brook
-  Charles Malcolm Monroe
-  Joseph Scott 
-  Nigel David Lister Williamson
+Clive Matthew Brook
+
+Rodney Thornton Brook
+
+Charles Malcolm Monroe
+
+Joseph Scott
+
+Nigel David Lister Williamson
 
