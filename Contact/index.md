@@ -11,14 +11,17 @@ permalink: /contact/
 | CW4 8JD
 | United Kingdom
 
+
 Email
 ------------------------------
 | info(at)cph2.com
+
 
 Company Details
 ------------------------------
 | Company No:	10286500
 | Vat No:	246 3819 88
+
 
 Directors
 ------------------------------
