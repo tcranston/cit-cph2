@@ -10,24 +10,30 @@ permalink: /contact/
 | Cheshire,
 | CW4 8JD
 | United Kingdom
+| 
 
 
 Email
 ------------------------------
-  info(at)cph2.com
+| info(at)cph2.com
+| 
 
 
 Company Details
 ------------------------------
-Company No:	10286500  
-Vat No:	246 3819 88
+
+| Company No:	10286500
+| Vat No:	246 3819 88
+| 
 
 
 Directors
 ------------------------------
-Clive Matthew Brook
-Rodney Thornton Brook
-Charles Malcolm Monroe
-Joseph Scott
-Nigel David Lister Williamson
+
+| Clive Matthew Brook
+| Rodney Thornton Brook
+| Charles Malcolm Monroe
+| Joseph Scott
+| Nigel David Lister Williamson
+| 
 
