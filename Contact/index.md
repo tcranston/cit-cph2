@@ -4,10 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-| Clean Power Hydrogen Group Limited,
-| 46 Brooklands Drive,
-| Goostrey,
-| Cheshire,
+| Clean Power Hydrogen Group Limited
+| 46 Brooklands Drive
+| Goostrey
+| Cheshire
 | CW4 8JD
 | United Kingdom
 | 
@@ -30,10 +30,10 @@ Company Details
 Directors
 ------------------------------
 
-| Clive Matthew Brook
-| Rodney Thornton Brook
-| Charles Malcolm Monroe
+| Clive Brook
+| Rodney Brook
+| Charles Monroe
 | Joseph Scott
-| Nigel David Lister Williamson
+| Nigel Williamson
 | 
 
