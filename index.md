@@ -4,7 +4,7 @@ title: Welcome to Clean Power Hydrogen (CPH2)
 permalink: /
 ---
  
-Incorporated on the 19th July 2016, Clean Power Hydrogen Group Limited is applying new technology to deliver hydrogen-based solutions for the transportation and power sectors. 
+Incorporated on the 19th July 2016, Clean Power Hydrogen Group Limited is applying new technology to deliver hydrogen-based solutions for the transportation, power and gas sectors. 
 
 [The CPH2 Team](/cph2_team) has vast experience of business development in hydrogen, with skills and expertise in gas technologies, mechanical and electrical engineering, finance and regulation. We are rapidly building a business which will provide solutions both UK and worldwide, to emissions reduction and energy storage.  
 
