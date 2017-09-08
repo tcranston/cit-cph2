@@ -15,7 +15,7 @@ The gas generation system
 The CPH2 gas generation system is a fully integrated self-monitoring unit, designed to provide a variable volume of hydrogen and oxygen gases in a 2:1 ratio from water.
 The system draws electricity of low current at 12V or 24V DC, dependent upon the vehicle’s electrical system. The electrical power is applied to our ‘stack’ which separates the water into its constituent gases by a highly efficient electrolysis process. Only sufficient gas to address the engine’s needs is produced in ‘real- time’ as the vehicle engine runs.  There is no gas stored on the vehicle, making it very compact.
 
-The system, which uses very little water, produces enough gas for most applications. Water can be supplied automatically from a reservoir of any chosen size in a location anywhere on the vehicle.  This reduces the number of topping-up operations required in a year.  Should the reservoir be depleted without being noticed, the system will shut down until it is refilled.  A warning system advising that a top-up of the main reservoir is required, can also be fitted.
+The system, which uses very little water, produces enough gas for most applications. Water can be supplied automatically from a reservoir of any chosen size in a location anywhere on the vehicle.  This reduces the number of topping-up operations required in a year.  Should the reservoir be depleted without being noticed, the system will shut down until it is refilled.  A warning system advising that a top-up of the main reservoir is required can also be fitted.
 
 Theory
 ------
