@@ -4,23 +4,22 @@ title: News
 permalink: /news/
 ---
 
-Clive Brook – Chairman and CFO
-------------------------------
-Clive qualified as a Chartered Accountant in 1973 and since then has had a wide range of commercial & financial experience, having worked in industry, venture capital (where he was a main-board director of 3i plc, then the UK’s largest venture capital business) and corporate finance. His role in CPH2 is to spearhead long term strategic development, provide team leadership, locate and negotiate finance and to ensure that proper corporate governance and accounting protocols are enacted.  He has considerable experience in early stage businesses and in raising capital for such businesses. He has also advised the UK government and various other public sector bodies, mainly in relation to SME development and venture capital.  He is a Director of The North West Fund, a £155 million venture capital fund utilising ERDF and EIB money, which has to be invested in SMEs in the North West of England. This fund has an Energy & Environmental sub-fund, with which Clive has been closely associated. He also runs an FCA regulated corporate finance business which has energy clients.
+Clean Power Hydrogen Completes First External Investment Round
+--------------------------------------------------------------
+ 
+Press Release - 7 September 2017
 
-Nigel Williamson - Technology Director
-------------------------------
-Nigel spent his early career developing fluid sealing technologies.  He worked for Dunlop Hydraulic Hose Division in Sheffield and then the USA.  He was granted numerous patents and the customers included NASA, General Dynamics, Moog, Rolls Royce, Alstom, General Motors, Ford Chrysler, VW/Audi, Mercedes Benz, BMW, TRW, Bosch, Delphi, Case, Deere and Terex.  He then established NWD International, Inc in Michigan, USA, (57 employees) which he ran until the expiration of his visa after which he became General Manager of a factory in Born, Holland (115 employees), both companies supplying sealing technologies to Automotive Industry OEMs.  A shift in technology took him to the hydrogen sector where he worked for 5 years as Chief Engineer at ITM Power Plc in Sheffield, helping the company become the largest electrolyser development company in Europe.  On leaving ITM he developed the low cost and robust electrolysis process which is the core technology of Clean Power Hydrogen for Low Emissions Technology and Energy Storage Technology.
+The Directors are pleased to announce the successful completion of Clean Power Hydrogen’s first round of equity funding from external sources. Previously the business has been exclusively funded by the founding directors/shareholders.
+A total of £450,000 was raised by West Hill Capital Ltd, acting on behalf of Clean Power Hydrogen Group Limited, the holding company for the Clean Power Hydrogen Group of Companies. Incoming investors took advantage of the Government’s SEIS and EIS schemes, which provide tax incentives for investors to encourage early stage investment in UK domiciled businesses.
+Clive Brook, Chairman, said “Clean Power Hydrogen is committed to energy storage and emissions reduction in the electricity, gas and transport sectors. I am very pleased that Clean Power’s business philosophy of providing alternative energy solutions avoiding the use of carbon has met with such an enthusiastic response from investors. The commercial exploitation of hydrogen as an environmentally friendly energy source is at the core of the Group’s philosophy, and the Board is excited at the ground-breaking opportunities its technologies are capable of delivering”
+Robert Caie, Managing Partner of West Hill Capital said “We are delighted to be working with the Clean Power Hydrogen team and look forward to the first commercial applications of their device. We envisage that the recently completed small round of equity will be a prelude to a larger raise next year in conjunction with the anticipated demand for their technology.”
+Further information on the activities of Clean Power Hydrogen can be found on our website:
+www.cph2.com
 
-Charles Monroe – Engineering Director
-------------------------------
-Charles Monroe has worked as an engineer in the cryogenic sector for over twenty five years.  After graduating from Cambridge University with a degree in Engineering, he qualified as a Chartered Engineer with the Institution of Mechanical Engineers and in 2006 he was elected a Fellow.  His first job in 1984 was with Oxford Instruments designing and building liquid helium cooled superconducting magnets.  He followed this with two positions at Air Products and then Sapio Srl in Italy to develop new technologies using liquid nitrogen, typically for the pharmaceutical and manufacturing companies.  Since 1997 he has run his own engineering consultancy business.  The clients have included companies and government research establishments in Europe and North America.  The applications have included cryogenic cooling systems for research laboratories, instruments for the science sector, carbon capture and storage, clean-up systems for storage waste generated during the decommissioning of nuclear power stations and the cooling equipment for fusion power technologies.
+Contacts:
+Clean Power Hydrogen:
+Clive Brook – Chairman. clive.brook(at)cph2.com       07785 904516
 
-Rodney Brook - Director
-------------------------------
-Rodney Brook graduated from Imperial College in electrical engineering and is a Chartered Engineer. His 30-year career with Eastern Electricity and various successor companies has included senior roles in R&D, power networks design and operations, General Management,  Health & Safety and  IT.  He has also held a broad and deep knowledge of requirements for system balance and managing power on electricity distribution networks. His work with Eastern and TXU following the development of competitive electricity markets included roles in regulatory, technical and commercial activity relating to the supply, trading and balancing of electricity. For the past 15 years Rodney has been working in in energy consultancy as a Founder-Director of Sohn Associates Ltd.
+West Hill Capital:
+Robert Caie – Managing Partner rfcaie(at)westhilcapital.co.uk  0203 440 7556
 
-Joe Scott – Non-Executive Director
-------------------------------
-Joe is a qualified Production Engineer, having started out with Ford. He specialised in R&D of advanced machining technology (‘EDM’). His entrepreneurial drive led him to establish his own tool and mould making company, in which he developed the first CAD/CAM-based paperless toolmaking processes. His customers included Motorola, Apple, Intel etc. The business’ unique selling proposition was its reduction in lead times from 16 weeks to 6 weeks.
-These clients required his business also to produce mouldings on a similar timescale; this required a high level of robotics, providing a cost-effective offering compared with Far Eastern manufacturers.  He still owns and runs this business which continues to thrive. As Joe’s strength is in product development and design, when CPH2 required innovative designs for its electolyser process, it turned to Joe to provide the most cost-effective solution. He has funded, through his other business, the development of an on-vehicle electrolysis technology, and is committed to providing a high level of input, on product development and design, and commercial matters.
