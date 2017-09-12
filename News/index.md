@@ -7,7 +7,7 @@ permalink: /news/
 Clean Power Hydrogen Completes First External Investment Round
 --------------------------------------------------------------
  
-Press Release - 7 September 2017
+Press Releasee on 7 September 2017
 
 The Directors are pleased to announce the successful completion of Clean Power Hydrogen’s first round of equity funding from external sources. Previously the business has been exclusively funded by the founding directors/shareholders.
 A total of £450,000 was raised by West Hill Capital Ltd, acting on behalf of Clean Power Hydrogen Group Limited, the holding company for the Clean Power Hydrogen Group of Companies. Incoming investors took advantage of the Government’s SEIS and EIS schemes, which provide tax incentives for investors to encourage early stage investment in UK domiciled businesses.
