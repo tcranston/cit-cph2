@@ -13,4 +13,10 @@ Incorporated on the 19th July 2016, Clean Power Hydrogen Group Limited is applyi
 Over the coming months we will be adding more to this website, but in the meantime please contact us to learn more about our products, our business success to date and our exciting plans for the future. 
 
 
+Latest News 
+-----------
+7 September 2017: Clean Power Hydrogen completes first external investment round. [Find Out More](/news)
+
+
+
 
