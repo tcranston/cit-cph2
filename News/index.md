@@ -6,13 +6,8 @@ permalink: /news/
 
 Fundraising
 ------------------------------
-Clean power Hydrogen announce a successful fundraising round and have released the following press announcement.
+Clean power Hydrogen announce a successful fundraising round and have released the following press announcement on 7 September 2017.
 
-
-CLEAN POWER HYDROGEN GROUP LIMITED
-------------------------------
-
-Press Release – 7th September  2017      
 
 Clean Power Hydrogen Completes First External Investment Round
 ------------------------------
